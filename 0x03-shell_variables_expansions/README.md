@@ -4,3 +4,4 @@
 2: This script Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 3: a script that counts the number of directories in the PATH.
 4: This script that lists environment variables.
+5: This script lists all local variables and environment variables, and functions.
